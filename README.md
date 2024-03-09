@@ -1,10 +1,3 @@
-```
-#
-# Copyright (C) 2023 Paranoid Android
-#
-# SPDX-License-Identifier: Apache-2.0
-#
-```
 
 The Motorola Edge 30 Fusion (codenamed _"tundra"_) was announced in September 2022 and is the middle child in the Edge 30 family.
 
